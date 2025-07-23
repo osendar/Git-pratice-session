@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+
 Hello osendar welcome to the git practice session
+=======
+Hello osendar welcome to the git practice session
+>>>>>>> 8fdfe122c5349e0ed6d7e5a557d5c5c5a4f7ff82
